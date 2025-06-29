@@ -63,4 +63,4 @@ This script:
   🛠 Requires Administrator privileges
 
 📦 License
-This project is open-source and available under the [MIT License](#mit-license-click-to-view).
+This project is open-source and available under the 📜 [MIT License](LICENSE)
