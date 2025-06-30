@@ -24,9 +24,20 @@ This repository contains two PowerShell scripts for securing and restoring your 
   - UPnP
 - ☰ *(Optional)* Disables IPv6 (commented by default)
 
+## Installation :
+
+#### 1) Install [Git](https://git-scm.com/downloads)
+#### 2) open powershell as normal user ( not Administrator )
+#### 3) copy and paste the following command
+```
+git clone https://github.com/Mr-DS-ML-85/Harden-Windows.git
+```
+
 🔧 Usage :
 
-Run PowerShell as Administrator
+#### Again 
+
+#### Run PowerShell as Administrator
 
 
   </> Execute:
@@ -46,9 +57,11 @@ This script:
 
 🔂 Restores IPv6 if it was disabled
 
-🔧Usage
+🔧Usage :
 
-  Run PowerShell as Administrator
+#### Again  
+
+#### Run PowerShell as Administrator
 
   </> Execute:
   ```powershell
@@ -63,6 +76,6 @@ This script:
 
   🛠 Requires Administrator privileges
 
-### 📦 License
+### 📦 License :
 
  This project is open-source and available under the 📜 [MIT License](LICENSE)
