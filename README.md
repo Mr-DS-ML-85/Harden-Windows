@@ -23,6 +23,7 @@ This repository contains two PowerShell scripts for securing and restoring your 
   - SMB file sharing  
   - UPnP
 - ☰ *(Optional)* Disables IPv6 (commented by default)
+
 🔧 Usage :
 
 Run PowerShell as Administrator
