@@ -48,6 +48,7 @@ git clone https://github.com/Mr-DS-ML-85/Harden-Windows.git
   </> Execute:
   ```powershell
 cd C:\Users\USERNAME\Downloads
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\Harden-Windows.ps1
 ```
 
@@ -72,6 +73,7 @@ This script:
   </> Execute:
   ```powershell
 cd C:\Users\USERNAME\Downloads
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\Restore-WindowsDefaults.ps1
 ```
 
