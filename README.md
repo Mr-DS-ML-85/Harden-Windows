@@ -14,7 +14,7 @@ This repository contains two PowerShell scripts for securing and restoring your 
 
 ---
 
-🧱 Harden-Windows.ps1 :
+## 🧱 Harden-Windows.ps1 :
 
 - ✅ Blocks commonly exposed ports (e.g., `135`, `139`, `445`, `5040`, `49664–49669`)
 - ✅ Disables unneeded Windows services like:
@@ -25,15 +25,20 @@ This repository contains two PowerShell scripts for securing and restoring your 
 - ☰ *(Optional)* Disables IPv6 (commented by default)
 
 ## Installation :
+#### 1) Download The Powershell(.ps1) file from [Releases](https://github.com/Mr-DS-ML-85/Harden-Windows/releases)
+
+## Alternative Installation :
+
+### Via Git
 
 #### 1) Install [Git](https://git-scm.com/downloads)
-#### 2) open powershell as normal user ( not Administrator )
-#### 3) copy and paste the following command
+#### 2) Open Powershell as normal user ( not Administrator )
+#### 3) Copy and Paste the following command
 ```
 git clone https://github.com/Mr-DS-ML-85/Harden-Windows.git
 ```
 
-🔧 Usage :
+### 🔧Usage :
 
 #### Again 
 
@@ -42,12 +47,13 @@ git clone https://github.com/Mr-DS-ML-85/Harden-Windows.git
 
   </> Execute:
   ```powershell
-    .\Harden-Windows.ps1
+cd C:\Users\USERNAME\Downloads
+.\Harden-Windows.ps1
 ```
 
-♻️ Restore-WindowsDefaults.ps1 :
+## ♻️ Restore-WindowsDefaults.ps1 :
 
-♻️ Restore Default Settings 🔧
+### ♻️ Restore Default Settings 🔧
 
 This script:
 
@@ -57,7 +63,7 @@ This script:
 
 🔂 Restores IPv6 if it was disabled
 
-🔧Usage :
+### 🔧Usage :
 
 #### Again  
 
@@ -65,7 +71,8 @@ This script:
 
   </> Execute:
   ```powershell
-    .\Restore-WindowsDefaults.ps1
+cd C:\Users\USERNAME\Downloads
+.\Restore-WindowsDefaults.ps1
 ```
 
 ⚠️ Warnings :
