@@ -87,6 +87,11 @@ Y
 
   🛠 Requires Administrator privileges
 
+#### ✅🧪📝 Tested :
+
+- Only on Windows 11
+- [Windows 10 Expires on October 14, 2025](https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281)
+
 ### 📦 License :
 
  This project is open-source and available under the 📜 [MIT License](LICENSE)
