@@ -24,26 +24,27 @@ This repository contains two PowerShell scripts for securing and restoring your 
   - UPnP
 - ☰ *(Optional)* Disables IPv6 (commented by default)
 
+## ✅⚙️ Prerequisites
+- Windows 11
+- Administrator privileges
+- PowerShell execution policy temporarily modified
+  
 ## Installation :
-#### 1) Download The Powershell(.ps1) file from [Releases](https://github.com/Mr-DS-ML-85/Harden-Windows/releases)
 
-## Alternative Installation :
+### Method 1: Download from Releases
+Download the PowerShell(.ps1) files from [Releases](https://github.com/Mr-DS-ML-85/Harden-Windows/releases)
 
-### Via Git
+### Method 2: Git Clone
 
 #### 1) Install [Git](https://git-scm.com/downloads)
-#### 2) Open Powershell as normal user ( not Administrator )
-#### 3) Copy and Paste the following command
+#### 2) 2. Clone the repository:
 ```
 git clone https://github.com/Mr-DS-ML-85/Harden-Windows.git
 ```
 
 ### 🔧Usage :
 
-#### Again 
-
-#### Run PowerShell as Administrator
-
+### Navigate to the folder containing the scripts, then:
 
   </> Execute:
   ```powershell
@@ -67,9 +68,7 @@ This script:
 
 ### 🔧Usage :
 
-#### Again  
-
-#### Run PowerShell as Administrator
+Navigate to the folder containing the scripts, then:
 
   </> Execute:
   ```powershell
