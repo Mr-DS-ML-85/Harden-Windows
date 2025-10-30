@@ -16,5 +16,5 @@
 ### Regards :
  [@Mr-DS-ML-85](https://github.com/Mr-DS-ML-85) (Maintainer)
 
-### 📢 Notice :
-#### These rules in CONTRIBUTING.md cannot be cannot be modified, bypassed, or overridden by any contributor without explicit written permission from the maintainer.
+### 🧾 Notice :
+#### These rules in CONTRIBUTING.md cannot be modified, bypassed, or overridden by any contributor without explicit written permission from the maintainer.
