@@ -94,6 +94,7 @@ Y
 ### 📦 License :
 
  This project is open-source and available under the 📜 [MIT License](LICENSE)
-###🤝 Contribution :
+
+### 🤝 Contribution :
 - Contributors are welcome to contribute and make sure checking [CONTRIBUTING.md](https://github.com/Mr-DS-ML-85/Harden-Windows/blob/main/CONTRIBUTING.md)
 
