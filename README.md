@@ -27,7 +27,7 @@ This repository contains two PowerShell scripts for securing and restoring your 
 ## ✅⚙️ Prerequisites
 - Windows 11
 - Administrator privileges
-- Powershell 7.3 or above
+- Powershell 7.x.x
 - PowerShell execution policy temporarily modified
   
 ## Installation :
