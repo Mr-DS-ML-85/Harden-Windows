@@ -1,5 +1,5 @@
 ## ⚠️ Attention:
-### If you are trying to contribute in this project then these are the following rules :
+### If you want to contribute in this project then these are the following rules :
 - No change of License.
 - No addition of malicious or harmful code that damages the system of individual or groupe of people.
 - Provide a short description of any additions or removals made to the project.
