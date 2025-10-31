@@ -19,7 +19,7 @@ Before submitting any code or documentation changes, please take a moment to rev
 
 ---
 
- [@Mr-DS-ML-85](https://github.com/Mr-DS-ML-85) (**Maintainer:**)
+ [@Mr-DS-ML-85](https://github.com/Mr-DS-ML-85) (**Maintainer**)
 ### 🧾 Important Note
 
 These contribution rules are designed to protect the **security and integrity** of the project.
