@@ -1,20 +1,30 @@
-## ⚠️ Attention:
-### If you want to contribute in this project then these are the following rules :
-- No change of License.
-- No addition of malicious or harmful code that damages the system of individual or groupe of people.
-- Provide a short description of any additions or removals made to the project.
-- Create a release after every major code commit.
-- Anyone can contribute, regardless of age, gender, or country of residence.
-- Contributors must possess the necessary skills.
-- Any bugs or vulnerabilities should be reported only after they have been patched.
-- Code Quality: Follow consistent coding standards and best practices (readability, comments, testing).
-- Attribution:
-  Always credit original authors if you use third-party resources, code snippets, or datasets.
-- All major code contributions must include basic test cases or proof of stability to ensure reliability.
-- Documentation:
-  Update relevant documentation (README, Wiki, or comments) whenever any introduction new functionality or configuration changes.
-### Regards :
- [@Mr-DS-ML-85](https://github.com/Mr-DS-ML-85) (Maintainer)
+## 🤝 Contributing to *Harden Windows*
 
-### 🧾 Notice :
-#### These rules in CONTRIBUTING.md cannot be modified, bypassed, or overridden by any contributor without explicit written permission from the maintainer.
+Thank you for your interest in contributing!
+Before submitting any code or documentation changes, please take a moment to review these guidelines.
+
+### 🧭 Contribution Rules
+
+* **License:** The project will always remain under the **MIT License**. Please do not propose license changes.
+* **Security:** Do **not** add, modify, or submit any code that could be malicious, harmful, or damaging to systems or users.
+* **Transparency:** Always include a **short description** of what you’ve added, removed, or changed.
+* **Releases:** Create a release after every **major stable code commit**.
+* **Inclusivity:** Everyone is welcome to contribute — regardless of age, gender, nationality, or background.
+* **Skill Requirements:** Please ensure you have the technical knowledge needed for your proposed changes.
+* **Responsible Disclosure:** If you discover bugs or vulnerabilities, report them **privately after a patch** is ready — not publicly.
+* **Code Quality:** Follow consistent coding standards — include comments, maintain readability, and test before submitting.
+* **Attribution:** Always credit original authors if you use third-party code, libraries, or datasets.
+* **Testing:** All major contributions should include **basic test cases** or stability proofs.
+* **Documentation:** Update all relevant docs (README, Wiki, or inline comments) when adding new features or configuration options.
+
+---
+
+ [@Mr-DS-ML-85](https://github.com/Mr-DS-ML-85) (**Maintainer:**)
+### 🧾 Important Note
+
+These contribution rules are designed to protect the **security and integrity** of the project.
+Please **do not bypass or modify** them without discussing with the project maintainer first.
+
+---
+
+
