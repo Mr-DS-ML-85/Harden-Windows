@@ -1,4 +1,4 @@
- # 💻📜⚡ Windows Port Hardening & Restore Scripts
+ #  💻📜⚡ Windows Port Hardening & Restore Scripts
  
 ### 🛡️ Harden your Windows PC by blocking open ports and disabling unused services.
 This repository contains two PowerShell scripts for securing and restoring your Windows 10/11 system by managing open ports, services, and IPv6 settings.
